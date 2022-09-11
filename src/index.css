@@ -62,3 +62,8 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.result {
+  font-weight: bold;
+  color: red;
+}
